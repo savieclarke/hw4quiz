@@ -12,3 +12,8 @@ made the answers appear in the buttons
 starting to stylize
 added a border around each page
 centered everything
+
+
+<br>
+
+This is a quiz about javascript using javascript. It comes with a built in timer and a place to store high scores.
