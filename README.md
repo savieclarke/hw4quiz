@@ -1,19 +1,7 @@
-# hw4quiz
-used bootstrap to stylisically change index.html
-added a question array
-added five questions and answer
-added a function to start the game, next question, show next question, reset and select answer
-added a countdown timer
-added a score feature
-made an end page and js for it
-made a highScores html and js for it
-linked all my pages together
-made the answers appear in the buttons
-starting to stylize
-added a border around each page
-centered everything
+#JavaScript Quiz
+A quiz about javascript using javascript.
+
+Description
+This is a timed coding quiz with multiple-choice questions. This app runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that I wrote. It has a clean, polished, and responsive user interface. 
 
 
-<br>
-
-This is a quiz about javascript using javascript. It comes with a built in timer and a place to store high scores.
